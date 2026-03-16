@@ -1,4 +1,5 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "TEST"
+    "OrganizationName": "TEST",
+    "CoreVersion": "2.0.0.0"
 }
