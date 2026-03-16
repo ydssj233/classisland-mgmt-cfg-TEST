@@ -1,5 +1,17 @@
 {
     "ServerKind": 0,
     "OrganizationName": "TEST",
-    "CoreVersion": "2.0.0.0"
+    "CoreVersion": "2.0.0.0",
+    "ClassPlanSource": {
+        "Value": "https://raw.githubusercontent.com/ydssj233/classisland-mgmt-cfg-TEST/main/{id}/ClassPlans.json",
+        "Version": 1
+    },
+    "TimeLayoutSource": {
+        "Value": "https://raw.githubusercontent.com/ydssj233/classisland-mgmt-cfg-TEST/main/TimeLayouts.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://raw.githubusercontent.com/ydssj233/classisland-mgmt-cfg-TEST/main/Subjects.json",
+        "Version": 1
+    }
 }
